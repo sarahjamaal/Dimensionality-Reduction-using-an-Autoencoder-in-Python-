@@ -1,4 +1,5 @@
-# Dimensionality-Reduction-using-an-Autoencoder-in-Python-
+# Dimensionality Reduction using an Autoencoder in Python 
+
 ## Overview
 This Repo that creates a dummy dataset of high dimensionality, and reduce its dimensionality using PCA.
 - Using autoencoder and how it is essentially a nuanced neural network.
